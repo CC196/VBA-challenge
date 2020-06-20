@@ -2,7 +2,7 @@ Attribute VB_Name = "Module11"
 Sub stock_data()
     
     Dim open_p As Double
-    Dim lastRowa As Long
+    Dim lastRow As Long
     
     num_stock = 2
     total_vol = 0
