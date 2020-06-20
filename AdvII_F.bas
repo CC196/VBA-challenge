@@ -2,7 +2,7 @@ Attribute VB_Name = "Module1"
 Sub stock_data_advII()
     
     Dim open_p As Double
-    Dim lastRowa As Long
+    Dim lastRow As Long
     
     For Each ws In Worksheets
     
